@@ -4,7 +4,7 @@ Towards Dynamic Message Passing on Graphs ($N^2$)
 This is the official implementation of Towards Dynamic Message Passing on Graphs.
 <!-- This is the official implementation of [Towards Dynamic Message Passing on Graphs](#). -->
 
-![N2 Highlight](main_figure.png)
+![N2 Highlight](main.png)
 
 # Preparation
 ## Requirements
