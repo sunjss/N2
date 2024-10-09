@@ -1,4 +1,4 @@
-Towards Dynamic Message Passing on Graphs ($N^2$)
+[NeurIPS2024] Towards Dynamic Message Passing on Graphs ($N^2$)
 ---
 
 This is the official implementation of Towards Dynamic Message Passing on Graphs.
@@ -33,4 +33,16 @@ The datasets should be organized as:
 
 ```bash
 python train.py --cuda_num 'your chosen cuda' --nbatch 1 --testmode 'your output folder/' --dataset 'dataset name'
+```
+
+# Citation
+If you find this repository useful in your research, please consider citing:)
+
+```
+@InProceedings{sun24neurips,
+  title = {Towards Dynamic Message Passing on Graphs},
+  author = {Sun, Junshu and Yang, Chenxue and Ji, Xiangyang and Huang, Qingming and Wang, Shuhui},
+  booktitle = {Thirty-Eighth Annual Conference on Neural Information Processing Systems},
+  year = {2024}
+}
 ```
