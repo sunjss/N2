@@ -1,4 +1,4 @@
-[NeurIPS2024] Towards Dynamic Message Passing on Graphs ($N^2$)
+[NeurIPS 2024] Towards Dynamic Message Passing on Graphs ($N^2$)
 ---
 
 This is the official implementation of Towards Dynamic Message Passing on Graphs.
