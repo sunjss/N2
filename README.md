@@ -13,6 +13,13 @@ This is the official implementation of Towards Dynamic Message Passing on Graphs
 - PyTorch 1.10.0+
 - PyTorch Geometric 2.1.0+
 
+Our library versions are as follows:
+
+- torch 2.0.0+cu117
+- torch-geometric 2.3.0
+- torch-scatter 2.1.1+cu117
+- torch-sparse 0.6.17+cu117
+- torchmetrics 1.2.0
 
 ## Datasets
 
