@@ -1,0 +1,15 @@
+gdown==4.7.1
+matplotlib==3.7.1
+networkx==3.1
+nni==2.10
+numpy==1.24.4
+ogb==1.3.6
+pandas==2.0.3
+scikit_learn==1.2.2
+scipy==1.15.3
+torch==2.0.0+cu117.with.pypi.cudnn
+torch_geometric==2.3.0
+torch_scatter==2.1.1+pt20cu117
+torch_sparse==0.6.17+pt20cu117
+torchmetrics==1.2.0
+tqdm==4.65.0
